@@ -9,4 +9,4 @@
   
 # 注意
 
-该项目是基于channels 1.0版本，现在channels 2.0有可能不被支持
+该项目是基于channels 1.0版本，现在channels 2.0有可能不被支持, channels2支持版本请前往[DShell2](https://github.com/ryanrain2016/DShell2)
